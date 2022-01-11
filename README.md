@@ -2,56 +2,7 @@
 Features of the Project Online Admin Dashboard Home, Schedule, Booklist, Maintenance, Bust list, Location List, User, Manage Account. Schedule Show Entries, Search, Id Numbers, Date, Bus, Location, Departure, ETA, Availability, Price, Action, Delete, and Edit. Booked List ID Number, Ref Number, Full Name, Quantity, Amount, Status, Show Entries, Search, and Edit. Bus List ID Number, Bus Number, Bus Name, Show Entries, Edit, Delete, and Search. Location List ID Number, Terminal, City, Province State, Show Entries, Edit, Delete, and Search. User ID Number, Name, User Name, Edit, Delete, Show Entries, and Search. User Dashboard Schedule ID Number, Date, Bus, Location, Departure, ETA, Availability, Price, Book, Show Entries, and Search. Functions 1. User functions I. Booking II. Select Schedule 2. Server functions I. User functions II. select order from list of existing orders III. add items to existing order IV. remove items from existing order V. create new order VI. close order VII. total price of order (automatic) 3. Admin functions I. User functions II. Server functions III. Manage User IV. Add an admin V. Remove an admin VI. Edit bus schedule VII. Edit location VIII. Change name IX. Change id X. Edit payment method XI. Add new location XII. Remove location XIII. Add new bus XIV. Change bus name XV. Remove bus XVI. Change ticket price
 International Islamic University Chittagong(IIUC)
 Computer and Communication Engineering(CCE)
-LAB REPORT -04
-Write a report on Testing and Implementation of the System of your assigned project including:
-i. Test Case Design
-ii. White-Box Testing
-iii. Black-Box Testing
-iv. Documentation
-Course Code: CCE-3508
-Course Title: System Analysis, Design and Development Sessional
-Submitted To
-Muhammad Kamal Hossen
-Associate Professor
-Adjunct Faculty
-International Islamic University Chittagong
-Submitted by :
-Samir Raihan (E191003)
-Ahmed Jaser Mahdi (E191006)
-Arif Hasnat (E191034)
-Date of Submission: 03/01/2021
-Introduction:
-Software bugs will usually exist in any application or software module. However, it's not because of the programmer's carelessness or irresponsibility; it's due to the complexity. Humans have a limited capacity for dealing with complexity. The testing of the solution and implementation of our project has been shown below.
-Testing
-Software Testing is the process of executing a program or system with the intent of finding errors. The scope of software testing often includes examination of code as well as execution of that code in various environments and conditions. Testing stages of the project can be explained as below and system was tested for all these stages.
- Component or unit testing
--Individual components are tested independently;
--Components may be functions, objects, or coherent groupings of these entities.
- System testing
--Testing of the system as a whole. Testing of emergent properties is particularly important.
- Acceptance testing
-- Testing with customer data to check that the system meets the customer's needs
-Test Cases
-Three sample Test Cases and result have been attached in below Table 1.1, Table 1.2 and Table 1.3 .
-Test Case ID: 1
-User Interface: Book ticket
-Operation: Ticket Booking
-Action
-Input
-Expected Output
-Status
-To show home page.
-Any user can access this page and view the list of main sections provided on the platform.
-User can access this page and view the list of main sections provided on the platform properly
-Pass
-To show Schedule page
-Any user can access this page and view the list of main sections provided on the platform.
-User can access this page and view the list of main sections provided on the platform properly
-Pass
-To Book a ticket
-Any user can access this page and Book ticket by select schedule
-User can access this page and Book ticket by select schedule properly.
-Pass
+
 Table 1.1 : Test Case for Test Case ID 1
 Test Case ID: 2
 Admin Interface: Login
